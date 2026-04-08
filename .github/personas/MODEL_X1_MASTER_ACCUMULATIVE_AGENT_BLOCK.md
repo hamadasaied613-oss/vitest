@@ -17,7 +17,7 @@ YOU MUST NOT LOSE A SINGLE VALID LEAF OF:
 - spreadsheet logic
 - SQL logic
 - HTML/CSS structure
-- Python/PySide/PySix body
+- Python/PySide/PySide6 body
 - machinery hierarchy
 - panels
 - interfaces
