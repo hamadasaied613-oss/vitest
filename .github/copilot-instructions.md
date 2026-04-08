@@ -9,3 +9,4 @@ Vitest is a next-generation testing framework powered by Vite. This is a monorep
 ## Essential references
 
 - Agent-specific guide: See [AGENTS.md](../AGENTS.md)
+- Agent personas: See [personas/](personas/)
